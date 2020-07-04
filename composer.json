@@ -1,0 +1,7 @@
+{
+    "name": "signal-flags/signal-flags",
+    "description": "Flags for the International Code of Signals",
+    "type": "library",
+    "license": "MIT",
+    "require": {}
+}
